@@ -1,0 +1,8 @@
+{
+  "periods": [
+    { "name": "morning", "start": "06:00", "asset_id": "YOUR_MORNING_UUID" },
+    { "name": "day",     "start": "10:00", "asset_id": "YOUR_DAY_UUID" },
+    { "name": "sunset",  "start": "17:00", "asset_id": "YOUR_SUNSET_UUID" },
+    { "name": "night",   "start": "19:30", "asset_id": "YOUR_NIGHT_UUID" }
+  ]
+}
